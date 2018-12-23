@@ -1,0 +1,24 @@
+{
+    "name": "xd-multiple-request-handler",
+    "description": "Multiple request handler for AngularJS",
+    "main": "dist/xd-multiple-request-handler.js",
+    "authors": [
+        "Xavier Dubuc"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "loader"
+    ],
+    "homepage": "https://www.xavierdubuc.com",
+    "private": false,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular": "angularjs#^1.6.1"
+    }
+}
